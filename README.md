@@ -65,4 +65,4 @@ High-level business logic does not depend on low-level implementation details. B
 ## 📖 Getting Started
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/KHLYL01/kmw-api.git](https://github.com/KHLYL01/kmw-api.git)
+   git clone https://github.com/KHLYL01/kmw-api.git
